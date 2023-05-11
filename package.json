@@ -1,10 +1,10 @@
 {
     "name": "Pr0xyUniverse.github.io",
     "version": "1.0.0",
-    "description": "",
+    "description": "asddsf",
     "scripts": {
-        "build": "echo \"node.js\" && exit 1",
-        "test": "echo \"node.js\" && exit 1",
+        "build": "echo \"node\" && exit 1",
+        "test": "echo \"node\" && exit 1",
         "start": "node index.html"
     },
     "repository": {
